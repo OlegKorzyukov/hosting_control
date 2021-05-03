@@ -1,0 +1,17 @@
+{
+	"authors": [
+		{
+			"name": "Vorbis",
+			"email": "o.korzyukov@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Inc\\": "includes"
+		}
+	},
+	"require": {
+		"guzzlehttp/guzzle": "7.*",
+		"imangazaliev/didom": "^1.16"
+	}
+}
